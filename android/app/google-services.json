@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "360665171746",
+    "project_id": "video-chat-application-4e989",
+    "storage_bucket": "video-chat-application-4e989.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360665171746:android:45cce7ec60995efd62877b",
+        "android_client_info": {
+          "package_name": "com.example.video_chat_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6jciN6IgTn9H9E19TLlxSggSDGSI7IDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
